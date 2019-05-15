@@ -1,0 +1,18 @@
+C:\Users\Burak Bayram\source\repos\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe
+C:\Users\Burak Bayram\source\repos\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.pdb
+C:\Users\Burak Bayram\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csprojResolveAssemblyReference.cache
+C:\Users\Burak Bayram\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Form1.resources
+C:\Users\Burak Bayram\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Properties.Resources.resources
+C:\Users\Burak Bayram\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.GenerateResource.Cache
+C:\Users\Burak Bayram\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Burak Bayram\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.exe
+C:\Users\Burak Bayram\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.pdb
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\B171210076\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\B171210076\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.pdb
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\B171210076\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csprojAssemblyReference.cache
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\B171210076\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Form1.resources
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\B171210076\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Properties.Resources.resources
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\B171210076\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.GenerateResource.cache
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\B171210076\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.CoreCompileInputs.cache
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\B171210076\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.exe
+E:\Döküman\1.Sınıf-2.Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\B171210076\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.pdb
